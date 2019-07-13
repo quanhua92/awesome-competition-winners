@@ -12,22 +12,28 @@ A comprehensive list of competition winners in Machine Learning, Deep Learning, 
     - [Image Classification](#image-classification)
         - [[2019] Google Landmark Retrieval 2019](#2019-google-landmark-retrieval-2019)
         - [[2019] Human Protein Atlas Image Classification](#2019-human-protein-atlas-image-classification)
+        - [[2017] Planet: Understanding the Amazon from Space]
+
     - [Image Segmentation](#image-segmentation)
         - [[2019] Baidu AI PaddlePaddle Autonomous Driving Competition](#2019-baidu-ai-paddlepaddle-autonomous-driving-competition)
         - [[2019] iMaterialist (Fashion) 2019 at FGVC6](#2019-imaterialist-fashion-2019-at-fgvc6)
-
     - [Video Understanding](#video-understanding)
         - [[2018] The 2nd YouTube-8M Video Understanding Challenge](#2018-the-2nd-youtube-8m-video-understanding-challenge)
+
 - [Natural Language Processing](#natural-language-processing)
     - [Text Classification](#text-classification)
         - [[2017] Zhihu Machine Learning Challenge](#2017-zhihu-machine-learning-challenge)
     - [Sentiment Analysis](#sentiment-analysis)
         - [[2019] ALVIVN - Phân loại sắc thái bình luận](#2019-alvivn---ph%C3%A2n-lo%E1%BA%A1i-s%E1%BA%AFc-th%C3%A1i-b%C3%ACnh-lu%E1%BA%ADn)
+
 - [Medical](#medical)
     - [Prediction](#prediction)
         - [[2019] UW Neural Data Challenge](https://github.com/quanhua92/awesome-competition-winners#2019-uw-neural-data-challenge)
         - [[2018] RSNA Pneumonia Detection Challenge](https://github.com/quanhua92/awesome-competition-winners#2018-rsna-pneumonia-detection-challenge)
+        - [[2018] Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
+
 - [Speech](#speech)
+
 - [Prediction](#prediction-1)
     - [Time Series Forecasting](#time-serices-forecasting)
         - [[2017] Web Traffic Time Series Forecasting](#2017-web-traffic-time-series-forecasting)
@@ -45,6 +51,11 @@ A comprehensive list of competition winners in Machine Learning, Deep Learning, 
 
 ### [[2019] Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification/)
 - [pudae/kaggle-hpa: Code for 3rd place solution in Kaggle Human Protein Atlas Image Classification Challenge](https://github.com/pudae/kaggle-hpa)
+
+### [[2017] Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
+- [bestfitting: 1st place solution](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/discussion/36809)
+- [ZFTurbo: 3rd place solution](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/discussion/38831#latest-218621)
+
 
 ## Image Segmentation
 
@@ -80,6 +91,11 @@ A comprehensive list of competition winners in Machine Learning, Deep Learning, 
 
 ### [[2018] RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
 - [i-pan/kaggle-rsna18: Code for 1st place solution in Kaggle RSNA Pneumonia Detection Challenge](https://github.com/i-pan/kaggle-rsna18)
+
+### [[2018] Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
+- [[ods.ai] topcoders, 1st place solution](https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741)
+- [mirzaevinom/data_science_bowl_2018: 5th place (out of 816 teams) solution](https://github.com/mirzaevinom/data_science_bowl_2018)
+
 
 # Speech
 
