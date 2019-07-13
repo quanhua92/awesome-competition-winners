@@ -7,32 +7,33 @@ A comprehensive list of competition winners in Machine Learning, Deep Learning, 
 
 # Contents
 
-- Computer Vision
-    - Object Detection
-    - Image Classification
-        - [2019] Google Landmark Retrieval 2019
-        - [2019] Human Protein Atlas Image Classification
-    - Image Segmentation
-        - [2019] Baidu AI PaddlePaddle Autonomous Driving Competition
-        - [2019] iMaterialist (Fashion) 2019 at FGVC6
+- [Computer Vision](#computer-vision)
+    - [Object Detection](#object-detection)
+    - [Image Classification](#image-classification)
+        - [[2019] Google Landmark Retrieval 2019](#2019-google-landmark-retrieval-2019)
+        - [[2019] Human Protein Atlas Image Classification](#2019-human-protein-atlas-image-classification)
+    - [Image Segmentation](#image-segmentation)
+        - [[2019] Baidu AI PaddlePaddle Autonomous Driving Competition](#2019-baidu-ai-paddlepaddle-autonomous-driving-competition)
+        - [[2019] iMaterialist (Fashion) 2019 at FGVC6](#2019-imaterialist-fashion-2019-at-fgvc6)
 
-    - Video Understanding
-        - [2018] The 2nd YouTube-8M Video Understanding Challenge
-- Natural Language Processing
-    - Text Classification
-        - [2017] Zhihu Machine Learning Challenge
-    - Sentiment Analysis
-        - [2019] ALVIVN - Phân loại sắc thái bình luận
-- Medical
-    - Prediction
-        - [2019] UW Neural Data Challenge
-        - [2018] RSNA Pneumonia Detection Challenge
-- Speech
-- Prediction
-    - Time Series Forecasting
-        - [2017] Web Traffic Time Series Forecasting
-    - Search Results
-        - [2015] Crowdflower Search Results Relevance
+    - [Video Understanding](#video-understanding)
+        - [[2018] The 2nd YouTube-8M Video Understanding Challenge](#2018-the-2nd-youtube-8m-video-understanding-challenge)
+- [Natural Language Processing](#natural-language-processing)
+    - [Text Classification](#text-classification)
+        - [[2017] Zhihu Machine Learning Challenge](#2017-zhihu-machine-learning-challenge)
+    - [Sentiment Analysis](#sentiment-analysis)
+        - [[2019] ALVIVN - Phân loại sắc thái bình luận](#2019-alvivn---ph%C3%A2n-lo%E1%BA%A1i-s%E1%BA%AFc-th%C3%A1i-b%C3%ACnh-lu%E1%BA%ADn)
+- [Medical](#medical)
+    - [Prediction](#prediction)
+        - [[2019] UW Neural Data Challenge](https://github.com/quanhua92/awesome-competition-winners#2019-uw-neural-data-challenge)
+        - [[2018] RSNA Pneumonia Detection Challenge](https://github.com/quanhua92/awesome-competition-winners#2018-rsna-pneumonia-detection-challenge)
+- [Speech](#speech)
+- [Prediction](#prediction-1)
+    - [Time Series Forecasting](#time-serices-forecasting)
+        - [[2017] Web Traffic Time Series Forecasting](#2017-web-traffic-time-series-forecasting)
+    - [Search Results](#search-results)
+        - [[2015] Crowdflower Search Results Relevance](#2015-crowdflower-search-results-relevance)
+
 # Computer Vision
 
 ## Object Detection
