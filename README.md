@@ -12,7 +12,7 @@ A comprehensive list of competition winners in Machine Learning, Deep Learning, 
     - [Image Classification](#image-classification)
         - [[2019] Google Landmark Retrieval 2019](#2019-google-landmark-retrieval-2019)
         - [[2019] Human Protein Atlas Image Classification](#2019-human-protein-atlas-image-classification)
-        - [[2017] Planet: Understanding the Amazon from Space]
+        - [[2017] Planet: Understanding the Amazon from Space](#2017-planet-understanding-the-amazon-from-space)
 
     - [Image Segmentation](#image-segmentation)
         - [[2019] Baidu AI PaddlePaddle Autonomous Driving Competition](#2019-baidu-ai-paddlepaddle-autonomous-driving-competition)
